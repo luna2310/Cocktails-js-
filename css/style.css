@@ -1,0 +1,39 @@
+#search{
+    display: flex;
+    justify-content: center;
+    margin: 30px 50px;
+}
+#inp{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btn{
+    background: rgb(167, 183, 208);
+    border-radius: 10px;
+    width: 90px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#select{
+    background: rgb(196, 203, 213);
+    border-radius: 10px;
+    width: 190px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#output{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 10px 40px;
+    margin-left: 100px;
+}
+#output img{
+    width: 22.9%;
+    margin-right: 1.9%;
+}
+body{
+    background: darkturqouise;
+    opacity: 0.7;
+}
